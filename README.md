@@ -75,4 +75,4 @@ Chelsea Afriyie Opoku
 - Add member login functionality.
 
 ## Software Demo
-Demo video: [Add your YouTube video link here]
+Demo video: https://youtu.be/PRsrstvOB5Y
